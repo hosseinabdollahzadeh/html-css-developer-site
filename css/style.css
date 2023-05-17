@@ -132,7 +132,7 @@ p{
 
 /* Home Info */
 #home-info {
-    height: 400px;
+    height: 100%;
 }
 
 #home-info .info-img {
